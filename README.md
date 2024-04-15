@@ -45,3 +45,7 @@ sst secret list
 
 ```sh
 pnpm run dev
+
+## TODOS:
+
+- [ ] Make everything type-safe (Serious chore)
